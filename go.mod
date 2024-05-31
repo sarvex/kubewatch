@@ -8,7 +8,7 @@ require (
 	github.com/hashicorp/hcl v0.0.0-20171017181929-23c074d0eceb // indirect
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
 	github.com/magiconair/properties v1.7.4 // indirect
-	github.com/mkmik/multierror v0.3.0
+	github.com/mkmik/multierror v0.4.0
 	github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e // indirect
 	github.com/pelletier/go-toml v1.0.1 // indirect
 	github.com/segmentio/textio v1.2.0
